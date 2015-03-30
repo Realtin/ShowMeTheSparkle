@@ -1,0 +1,16 @@
+- {name: Knickers in a Twist, company: Fyrinnae, color: [taupe, bronze], cw: orange, neutral: true, lightness: 5, tone: neutral }
+- {name: Koala, company: Fyrinnae, color: [taupe, rose], cw: red, neutral: true, lightness: 2, tone: cool }
+- {name: Sloth Snuggles, company: Fyrinnae, color: [chocolate, brown, mauve], cw: red-orange, neutral: true, lightness: 4, tone: neutral}
+- {name: Serendipity, company: Fyrinnae, color: [copper, rose, taupe, grey], cw: red, neutral: true, lightness: 2, tone: neutral}
+- {name: Steampunk, company: Fyrinnae, color: [copper, black, gold, plum, chartreuse], cw: orange-red, neutral: true, lightness: 5, tone: neutral}
+- {name: Shenanigans, company: Fyrinnae, color: [gold], cw: yellow, neutral: false, lightness: 3, tone: cool}
+- {name: Serene Highness, company: Fyrinnae, color: [violet, green, blue-purple, yellow-green], cw: blue-purple, neutral: false, lightness: 3, tone: cool}
+- {name: Faust, company: Fyrinnae, color: [brown, gold], cw: yellow-orange, neutral: true, lightness: 4, tone: warm}
+- {name: Purgatory, company: Fyrinnae, color: [red, black], cw: red, neutral: false, lightness: 5, tone: warm}
+- {name: Mephisto, company: Fyrinnae, color: [blue, copper, red, royal], cw: red, neutral: false, lightness: 5, tone: neutral }
+- {name: Crimson Ghost, company: Fyrinnae, color: [ivory, pink, red], cw: red, neutral: false, lightness: 1, tone: warm}
+- {name: Rapunzel had Extentions, company: Fyrinnae, color: [orange, peach, gold], cw: yellow-orange, neutral: false, lightness: 2, tone: warm}
+- {name: Dreamwoven Luxuries, company: Fyrinnae, color: [gold, green, red, blue], cw: yellow-orange, neutral: true, lightness: 3, tone: neutral}
+- {name: Snow Leopard, company: Fyrinnae, color: [taupe, brown, rose], cw: orange, neutral: true, lightness: 3, tone: warm}
+- {name: Monarch Butterfly, company: Fyrinnae, color: [red, black, copper, orange], cw: red-orange, neutral: false, lightness: 5, tone: warm}
+- {name: Conjured Temprest, company: Fyrinnae, color: [green, pink, purple], cw: green, neutral: false, lightness: 5, tone: cool}

@@ -1,0 +1,23 @@
+colorwheel:
+  red: {tone: warm, comp: green, next: red-orange, prev: red-purple}
+  red-orange: {tone: warm, comp: blue-green, next: orange, prev: red}
+  orange: {tone: warm, comp: blue, next: yellow-orange, prev: red-orange}
+  yellow-orange: {tone: warm, comp: blue-purple, next: yellow, prev: orange}
+  yellow: {tone: warm, comp: blue, next: yellow-green, prev: yellow-orange}
+  yellow-green: {tone: cool, comp: blue, next: green, prev: yellow}
+  green: {tone: cool, comp: red, next: blue-green, prev: yellow-green}
+  blue-green: {tone: cool, comp: orange, next: blue, prev: green}
+  blue: {tone: cool, comp: yellow, next: blue-purple, prev: blue-green}
+  blue-purple: {tone: cool, comp: yellow, next: purple, prev: blue}
+  purple: {tone: cool, comp: yellow, next: red-purple, prev: blue-purple}
+  red-purple: {tone: warm, comp: yellow, next: red, prev: purple}
+---
+
+# brown: {tone: medium, comp: none, next: none, prev: none}
+# black: {tone: medium, comp: none, next: none, prev: none}
+# taupe: {tone: medium, comp: none, next: none, prev: none}
+#
+# silver: {tone: cool, comp: gold, next: none, prev: none}
+# copper: {tone: warm, comp: none, next: none, prev: none}
+# bronze: {tone: warm, comp: none, next: none, prev: none}
+# gold: {tone: warm, comp: silver, next: none, prev: none}
