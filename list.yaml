@@ -46,3 +46,18 @@
 - {name: Angry Cuccos, company: Shiro, color: [cream, white, green, red], cw: red, neutral: false, lightness: 1, tone: warm}
 - {name: Skull Kid, company: Shiro, color: [brown, green, orange, purple], cw: orange, neutral: false, lightness: 4, tone: warm}
 - {name: Swether Weather, company: Shiro, color: [purple, taupe, gold], cw: purple, neutral: false, lightness: 4, tone: warm}
+- {name: 104th Trainees Squad, company: AFK Cosmetics, color: [orange], cw: orange, neutral: false, lightness: 3, tone: warm}
+- {name: Brotherhood of Steel, company: AFK Cosmetics, color: [grey, blue], cw: blue, neutral: false, lightness: 4, tone: cool}
+- {name: Drink Nuka Cola , company: AFK Cosmetics, color: [red, gold], cw: red-orange, neutral: false, lightness: 3, tone: warm}
+- {name: Hey There Smoothskin, company: AFK Cosmetics, color: [cream, yellow, beige], cw: yellow, neutral: true, lightness: 1, tone: neutral}
+- {name: Mikasa, company: AFK Cosmetics, color: [red, burgundy], cw: red, neutral: false, lightness: 4, tone: warm}
+- {name: You smell like burning, company: AFK Cosmetics, color: [grey, purple], cw: purple, neutral: false, lightness: 4, tone: cool}
+- {name: Potato Girl, company: AFK Cosmetics, color: [brown, yellow], cw: yellow-orange, neutral: true, lightness: 3, tone: warm}
+- {name: Quantum, company: AFK Cosmetics, color: [blue, white], cw: blue, neutral: false, lightness: 2, tone: cool}
+- {name: Sunset Sarsaparilla, company: AFK Cosmetics, color: [yellow, red], cw: yellow, neutral: false, lightness: 2, tone: warm}
+- {name: Super Mutant, company: AFK Cosmetics, color: [green, gold], cw: green-yellow, neutral: false, lightness: 2, tone: cool}
+- {name: That tastes like purple!, company: AFK Cosmetics, color: [purple], cw: purple, neutral: false, lightness: 4, tone: cool}
+- {name: The Strip, company: AFK Cosmetics, color: [silver, grey, taupe], cw: blue, neutral: true, lightness: 3, tone: cool}
+- {name: Three Dog Owwwwwwwww!, company: AFK Cosmetics, color: [brown, gold], cw: yellow-orange, neutral: true, lightness: 3, tone: warm}
+- {name: Tunnel Snakes Rule!, company: AFK Cosmetics, color: [black, green], cw: green, neutral: false, lightness: 4, tone: cool}
+- {name: Vault Boy, company: AFK Cosmetics, color: [blue], cw: blue, neutral: false, lightness: 3, tone: cool}
