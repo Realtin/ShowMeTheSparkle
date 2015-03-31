@@ -14,3 +14,35 @@
 - {name: Snow Leopard, company: Fyrinnae, color: [taupe, brown, rose], cw: orange, neutral: true, lightness: 3, tone: warm}
 - {name: Monarch Butterfly, company: Fyrinnae, color: [red, black, copper, orange], cw: red-orange, neutral: false, lightness: 5, tone: warm}
 - {name: Conjured Temprest, company: Fyrinnae, color: [green, pink, purple], cw: green, neutral: false, lightness: 5, tone: cool}
+- {name: Cake! , company: Shiro, color: [cream, white, red, copper], cw: red, neutral: false, lightness: 1, tone: warm}
+- {name: Full of Craft, company: Shiro, color: [brown, gold, red], cw: orange-red, neutral: false, lightness: 3, tone: warm}
+- {name: Hodor, company: Shiro, color: [taupe], cw: yellow-orange, neutral: true, lightness: 2, tone: cool}
+- {name: Salt and Stone , company: Shiro, color: [black, red, green], cw: red, neutral: flase, lightness: 5, tone: warm}
+- {name: Doge , company: Shiro, color: [cream, pink], cw: yellow-orange , neutral: true, lightness: 1, tone: warm}
+- {name: Badger, company: Shiro, color: [black, chocolate, brown, gold], cw: orange, neutral: true, lightness: 5, tone: warm}
+- {name: Star-Crossed , company: Shiro, color: [black, copper, brown], cw: orange-red, neutral: true, lightness: 4, tone: warm}
+- {name: Housewife , company: Shiro, color: [grey, beige, taupe], cw: yellow , neutral: true, lightness: 1, tone: cool}
+- {name: King under the Mountain , company: Shiro, color: [brown, taupe, grey, silver, blue], cw: orange, neutral: true, lightness: 4, tone: neutral}
+- {name: He loves his Hammer , company: Shiro, color: [pewter, taupe, pink, silver], cw: red, neutral: true, lightness: 2, tone: cool}
+- {name: Nic Cage Raking Leaves .. , company: Shiro, color: [brown, black, gold, red], cw: orange-red, neutral: true, lightness: 4, tone: warm}
+- {name: Yzma's Essence of Llama, company: Shiro, color: [plum, gold, yellow, gold], cw: red-orange, neutral: false, lightness: 4, tone: warm}
+- {name: That man is playing Galanga, company: Shiro, color: [black], cw: blue, neutral: false, lightness: 5, tone: neutral}
+- {name: Glowstick of Destiny, company: Shiro, color: [cream, blue, gold], cw: blue, neutral: false, lightness: 2, tone: cool}
+- {name: Enourmous Green Rage Monster, company: Shiro, color: [green, purple], cw: green, neutral: false, lightness: 3, tone: cool}
+- {name: Climbing Chaos, company: Shiro, color: [brown, copper, bronze], cw: orange , neutral: true, lightness: 4, tone: warm}
+- {name: Gift of Mercy, company: Shiro, color: [black grey, orange], cw: orange , neutral: true, lightness: 5, tone: neutral}
+- {name: Women's Weapons, company: Shiro, color: [red, gold, burgundy], cw: red, neutral: false, lightness: 3, tone: warm}
+- {name: Chimera, company: Shiro, color: [copper, gold, silver, taupe, black], cw: yellow-orange , neutral: true, lightness: 3, tone: neutral}
+- {name: Extermination, company: Shiro, color: [cream, white, red], cw: orange-red, neutral: true, lightness: 2, tone: neutral}
+- {name: Alkahestry, company: Shiro, color: [violet, purple, blue], cw: blue-purple, neutral: false, lightness: 2, tone: cool}
+- {name: Homunculus, company: Shiro, color: [grey, red, black], cw: red, neutral: false, lightness: 5, tone: warm}
+- {name: Baker's Boy, company: Shiro, color: [cream, gold, brown, blue], cw: yellow, neutral: true, lightness: 2, tone: warm}
+- {name: Remake, company: Shiro, color: [gold, bronze, purple], cw: yellow-orange, neutral: false, lightness: 3, tone: warm}
+- {name: Fifteen Birds in Five Fir Trees, company: Shiro, color: [green, red], cw: green, neutral: false, lightness: 4, tone: cool}
+- {name: War of five armies, company: Shiro, color: [black, red, brown], cw: orange-red, neutral: false, lightness: 5, tone: warm}
+- {name: A Regular Bears' Meeting, company: Shiro, color: [brown, gold], cw: yellow-orange, neutral: true, lightness: 4, tone: warm}
+- {name: Smashing Pots, company: Shiro, color: [copper, brown, green, blue, red], cw: orange , neutral: false, lightness: 4, tone: warm}
+- {name: Ganondorf, company: Shiro, color: [black, red], cw: red, neutral: false, lightness: 5, tone: warm}
+- {name: Angry Cuccos, company: Shiro, color: [cream, white, green, red], cw: red, neutral: false, lightness: 1, tone: warm}
+- {name: Skull Kid, company: Shiro, color: [brown, green, orange, purple], cw: orange, neutral: false, lightness: 4, tone: warm}
+- {name: Swether Weather, company: Shiro, color: [purple, taupe, gold], cw: purple, neutral: false, lightness: 4, tone: warm}
