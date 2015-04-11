@@ -59,4 +59,4 @@ def choose_three(array)
   puts one['name'] + ", " + two['name']+ ", "+three['name']
 end
 
-choose_three(eyeshadows)
+choose_two(eyeshadows, true)
